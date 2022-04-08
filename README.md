@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdimran46
 - 👀 I’m c# developer
 - 🌱 I’m currently working on dotnet3.1/5/6
--    I'm working as cloud tech stacks using docker, kubernetes, openshift platoform and rancher
+-    I'm working as cloud tech stacks using docker, kubernetes, openshift platform and rancher
 - 💞️ I’m looking to collaborate on cloud and microservices development
 - 📫 How to reach me soon
 
